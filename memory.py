@@ -15,7 +15,7 @@ class Memory:
 
     def __init__(
         self,
-        data_path="C:/Users/Watan/Desktop/Code/auto_shelving/expert",
+        data_path="",
         # action_discretization=False,
     ):
         base_dir = data_path
